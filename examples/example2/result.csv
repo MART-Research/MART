@@ -1,0 +1,4 @@
+Topology,Algorithm,Total Hopcount,Average Hopcount,Average Power Per Route,Global Max Load,Total Power
+torus_2d,valiant_xy,1242,6.33673,0.0193302,0.0524644,3.78474
+torus_2d,minimal_or,528,2.69388,0.00948355,0.0466335,1.85694
+torus_2d,lbor,600,3.06122,0.0104765,0.0466473,2.05134

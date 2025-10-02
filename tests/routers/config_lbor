@@ -1,0 +1,54 @@
+# which topology to test
+topology               = mesh
+
+
+# hopcount for the routing algorithm
+hopcount               = 0
+# number of virtual channels
+num_vcs               = 1
+# fraction of faulty faulty_links
+faulty_links          = 0.0
+
+# flows
+flow                 = 2.0
+# ---- butterfly parameters ----
+k                    = 8
+# ---- hypercube parameters ----
+num_dimensions         = 5
+
+# ---- dragonfly parameters ----
+# number of groups, routers per group, nodes per router, global links per router
+num_groups             = 3
+routers_per_group      = 2
+nodes_per_router       = 4
+global_links_per_router= 1
+num_vcs                = 1
+
+# ---- mesh parameters ----
+# number of rows, columns, nodes per router, links per router
+num_rows              = 6
+num_cols              = 6
+
+# number of test cases
+num_tests              = 4
+
+
+
+
+# ------------------ mesh testcases ------------------
+# mesh 6x6 testcases
+
+route_0                = 0->31 
+expected_0             = 0,16,24,28,30,31
+
+route_1                = 3->24
+expected_1             = 3,19,27,25,24
+
+route_2                = 17->6
+expected_2             = 17,1,5,7,6
+
+route_3                = 10->23
+expected_3             = 10,26,18,22,23
+
+
+

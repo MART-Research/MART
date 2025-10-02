@@ -1,0 +1,53 @@
+# —————————————————————————————————————————————
+# Topology parameters
+topology               = butterfly
+hopcount               = 0
+num_vcs               = 1
+faulty_links          = 0.1
+# —————————————————————————————————————————————
+# butterfly parameters
+k                    = 8
+# —————————————————————————————————————————————
+# dragonfly parameters
+num_groups             = 5
+routers_per_group      = 3
+nodes_per_router       = 4
+global_links_per_router= 2
+# —————————————————————————————————————————————
+# mesh parameters
+num_rows_mesh              = 4
+num_cols_mesh              = 4
+
+# —————————————————————————————————————————————
+# hypercube parameters
+num_dimensions         = 3
+
+# —————————————————————————————————————————————
+# torus_2d parameters
+num_rows_torus_2d      = 4
+num_cols_torus_2d     = 4
+
+# —————————————————————————————————————————————
+# torus_3d parameters
+num_rows_torus_3d      = 4
+num_cols_torus_3d     = 4
+depth_torus_3d        = 4
+
+
+# —————————————————————————————————————————————
+#  parameters
+num_rows_torus_3d      = 4
+num_cols_torus_3d     = 4
+depth_torus_3d        = 4
+# —————————————————————————————————————————————
+# Which routing algorithms to run (comma-separated)
+routing_algorithms     = minimalor, destinationtag
+
+# —————————————————————————————————————————————
+# List of src→dst pairs to simulate
+routes                 = 0->11,2->9
+
+# a single src→dst pair to simulate
+src=0
+dst=5
+# —————————————————————————————————————————————

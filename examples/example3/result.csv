@@ -1,0 +1,3 @@
+Topology,Algorithm,Total Hopcount,Average Hopcount,Average Power Per Route,Global Max Load,Total Power
+butterfly,minimal_or,204,2.125,0.00794587,0.1399,0.76204
+butterfly,destination_tag,472,4.91667,0.0154918,0.122422,1.48564

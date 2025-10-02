@@ -1,0 +1,37 @@
+# which topology to test
+topology               = hypercube
+
+
+# hopcount for the routing algorithm
+hopcount               = 0
+# number of virtual channels
+num_vcs               = 1
+# fraction of faulty faulty_links
+faulty_links          = 0.0
+
+# flows
+flow                 = 2.0
+# ---- hypercube parameters ----
+num_dimensions       = 9
+
+
+# number of test cases
+num_tests              = 4
+
+
+# ------------------ hypercube testcases ------------------
+# hypercube testcases
+
+route_0                = 0->31 
+expected_0             = 0,1,3,7,15,31
+
+route_1                = 0->1
+expected_1             = 0,1
+
+route_2                = 17->6
+expected_2             = 17,16,18,22,6
+
+route_3                = 3->24
+expected_3             = 3,2,0,8,24
+
+

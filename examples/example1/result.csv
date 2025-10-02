@@ -1,0 +1,4 @@
+Topology,Algorithm,Total Hopcount,Average Hopcount,Average Power Per Route,Global Max Load,Total Power
+mesh,valiant_xy,1406,7.4,0.0222042,0.0524644,4.21433
+mesh,minimal_or,610,3.21053,0.0108801,0.0524644,2.06513
+mesh,lbor,610,3.21053,0.0108801,0.0524644,2.06513

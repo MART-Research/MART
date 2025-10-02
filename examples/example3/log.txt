@@ -1,0 +1,970 @@
+-----------Start Of Iteration 0----------------- 
+Routing Algorithm: minimal_or
+Routing from Node 0 to Node 1 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 0 to Node 2 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 0 to Node 4 with Flow: 1.74858e+07 bits 
+Node 0 -> Node 4 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 0 to Node 6 with Flow: 1.16549e+07 bits 
+Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 0 to Node 8 with Flow: 1.74858e+07 bits 
+Node 0 -> Node 4 -> Node 8 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 0 to Node 9 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 0 to Node 10 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 1 to Node 0 with Flow: 5.83091e+06 bits 
+Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Destination Reached!
+Hopcount: 4
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 1 to Node 3 with Flow: 1.16549e+07 bits 
+Node 1 -> Node 7 -> Node 3 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 1 to Node 4 with Flow: 1.74927e+07 bits 
+Node 1 -> Node 5 -> Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 3
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 1 to Node 5 with Flow: 1.16618e+07 bits 
+Node 1 -> Node 5 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 1 to Node 6 with Flow: 1.74858e+07 bits 
+Node 1 -> Node 7 -> Node 10 -> Node 6 -> Destination Reached!
+Hopcount: 3
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 1 to Node 7 with Flow: 5.83091e+06 bits 
+Node 1 -> Node 7 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 1 to Node 8 with Flow: 5.824e+06 bits 
+Node 1 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 1 to Node 9 with Flow: 2.33098e+07 bits 
+Node 1 -> Node 5 -> Node 9 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 1 to Node 10 with Flow: 5.83091e+06 bits 
+Node 1 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 2 to Node 0 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 2 to Node 3 with Flow: 3.49786e+07 bits 
+Node 2 -> Node 4 -> Node 9 -> Node 5 -> Node 3 -> Destination Reached!
+Hopcount: 4
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 2 to Node 5 with Flow: 1.16618e+07 bits 
+Node 2 -> Node 4 -> Node 9 -> Node 5 -> Destination Reached!
+Hopcount: 3
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 2 to Node 6 with Flow: 1.16549e+07 bits 
+Node 2 -> Node 6 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 2 to Node 7 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 6 -> Node 11 -> Node 7 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 2 to Node 8 with Flow: 1.74858e+07 bits 
+Node 2 -> Node 4 -> Node 8 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 2 to Node 9 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 2 to Node 10 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 2 to Node 11 with Flow: 1.16549e+07 bits 
+Node 2 -> Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 3 to Node 1 with Flow: 1.16549e+07 bits 
+Node 3 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 3 to Node 2 with Flow: 3.49786e+07 bits 
+Node 3 -> Node 5 -> Node 8 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 4
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 3 to Node 4 with Flow: 1.7472e+07 bits 
+Node 3 -> Node 5 -> Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 3
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 3 to Node 5 with Flow: 5.83091e+06 bits 
+Node 3 -> Node 5 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 3 to Node 9 with Flow: 1.16618e+07 bits 
+Node 3 -> Node 5 -> Node 9 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 3 to Node 10 with Flow: 5.83091e+06 bits 
+Node 3 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 3 to Node 11 with Flow: 1.16618e+07 bits 
+Node 3 -> Node 7 -> Node 11 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 4 to Node 0 with Flow: 1.74858e+07 bits 
+Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 4 to Node 1 with Flow: 1.74927e+07 bits 
+Node 4 -> Node 9 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 3
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 4 to Node 3 with Flow: 1.7472e+07 bits 
+Node 4 -> Node 9 -> Node 5 -> Node 3 -> Destination Reached!
+Hopcount: 3
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 4 to Node 5 with Flow: 1.74858e+07 bits 
+Node 4 -> Node 9 -> Node 5 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 4 to Node 7 with Flow: 1.16549e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 4 to Node 8 with Flow: 6.9964e+07 bits 
+Node 4 -> Node 8 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 4 to Node 9 with Flow: 1.74858e+07 bits 
+Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 4 to Node 10 with Flow: 1.74927e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 3
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 5 to Node 1 with Flow: 1.16618e+07 bits 
+Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 5 to Node 2 with Flow: 1.16618e+07 bits 
+Node 5 -> Node 8 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 3
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 5 to Node 3 with Flow: 5.83091e+06 bits 
+Node 5 -> Node 3 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 5 to Node 4 with Flow: 1.74858e+07 bits 
+Node 5 -> Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 5 to Node 7 with Flow: 5.83091e+06 bits 
+Node 5 -> Node 1 -> Node 7 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 5 to Node 8 with Flow: 1.16618e+07 bits 
+Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 5 to Node 9 with Flow: 2.91476e+07 bits 
+Node 5 -> Node 9 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 6 to Node 0 with Flow: 1.16549e+07 bits 
+Node 6 -> Node 0 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 6 to Node 1 with Flow: 1.74858e+07 bits 
+Node 6 -> Node 11 -> Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 6 to Node 2 with Flow: 1.16549e+07 bits 
+Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 6 to Node 7 with Flow: 5.83091e+06 bits 
+Node 6 -> Node 11 -> Node 7 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 6 to Node 8 with Flow: 1.16618e+07 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 8 -> Destination Reached!
+Hopcount: 3
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 6 to Node 9 with Flow: 5.83091e+06 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 6 to Node 10 with Flow: 5.83091e+06 bits 
+Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 6 to Node 11 with Flow: 1.16549e+07 bits 
+Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 7 to Node 1 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 7 to Node 2 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 10 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 7 to Node 4 with Flow: 1.16549e+07 bits 
+Node 7 -> Node 1 -> Node 5 -> Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 4
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 7 to Node 5 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 1 -> Node 5 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 7 to Node 6 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 10 -> Node 6 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 7 to Node 10 with Flow: 1.16549e+07 bits 
+Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 7 to Node 11 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 11 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 8 to Node 0 with Flow: 1.74858e+07 bits 
+Node 8 -> Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 8 to Node 1 with Flow: 5.824e+06 bits 
+Node 8 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 8 to Node 2 with Flow: 1.74858e+07 bits 
+Node 8 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 8 to Node 4 with Flow: 6.9964e+07 bits 
+Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 8 to Node 5 with Flow: 1.16618e+07 bits 
+Node 8 -> Node 5 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 8 to Node 6 with Flow: 1.16618e+07 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 3
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 8 to Node 9 with Flow: 1.16618e+07 bits 
+Node 8 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 8 to Node 10 with Flow: 5.824e+06 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 4
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 9 to Node 0 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 9 to Node 1 with Flow: 2.33098e+07 bits 
+Node 9 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 9 to Node 2 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 9 to Node 3 with Flow: 1.16618e+07 bits 
+Node 9 -> Node 5 -> Node 3 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 9 to Node 4 with Flow: 1.74858e+07 bits 
+Node 9 -> Node 4 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 9 to Node 5 with Flow: 2.91476e+07 bits 
+Node 9 -> Node 5 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 9 to Node 6 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 9 to Node 8 with Flow: 1.16618e+07 bits 
+Node 9 -> Node 4 -> Node 8 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 9 to Node 10 with Flow: 1.16618e+07 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 4
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 9 to Node 11 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 4
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 10 to Node 0 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 10 to Node 1 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 10 to Node 2 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 10 to Node 3 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 7 -> Node 3 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 10 to Node 4 with Flow: 1.74927e+07 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 10 to Node 6 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 10 to Node 7 with Flow: 1.16549e+07 bits 
+Node 10 -> Node 7 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 10 to Node 8 with Flow: 5.824e+06 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 8 -> Destination Reached!
+Hopcount: 4
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 10 to Node 9 with Flow: 1.16618e+07 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 10 to Node 11 with Flow: 1.16549e+07 bits 
+Node 10 -> Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 11 to Node 2 with Flow: 1.16549e+07 bits 
+Node 11 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 11 to Node 3 with Flow: 1.16618e+07 bits 
+Node 11 -> Node 7 -> Node 3 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 11 to Node 6 with Flow: 1.16549e+07 bits 
+Node 11 -> Node 6 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 11 to Node 7 with Flow: 5.83091e+06 bits 
+Node 11 -> Node 7 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 11 to Node 9 with Flow: 5.83091e+06 bits 
+Node 11 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 4
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 11 to Node 10 with Flow: 1.16549e+07 bits 
+Node 11 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 2
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+-----------End Of Iteration 0----------------- 
+Global Max Load: 0.1399 (GB) 
+Total Power (Nodes+Links) :0.76204
+-----------Start Of Iteration 1----------------- 
+Routing Algorithm: destination_tag
+Routing from Node 0 to Node 1 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 6 -> Node 2 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 6
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 0 to Node 2 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 0 to Node 4 with Flow: 1.74858e+07 bits 
+Node 0 -> Node 6 -> Node 2 -> Node 4 -> Destination Reached!
+Hopcount: 3
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 0 to Node 6 with Flow: 1.16549e+07 bits 
+Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 0 to Node 8 with Flow: 1.74858e+07 bits 
+Node 0 -> Node 6 -> Node 2 -> Node 4 -> Node 9 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 6
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 0 to Node 9 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 6 -> Node 2 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 4
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 0 to Node 10 with Flow: 5.83091e+06 bits 
+Node 0 -> Node 6 -> Node 2 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 8
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 1 to Node 0 with Flow: 5.83091e+06 bits 
+Node 1 -> Node 7 -> Node 3 -> Node 5 -> Node 8 -> Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 1 to Node 3 with Flow: 1.16549e+07 bits 
+Node 1 -> Node 7 -> Node 3 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 1 to Node 4 with Flow: 1.74927e+07 bits 
+Node 1 -> Node 7 -> Node 3 -> Node 5 -> Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 5
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.015717
+Routing from Node 1 to Node 5 with Flow: 1.16618e+07 bits 
+Node 1 -> Node 7 -> Node 3 -> Node 5 -> Destination Reached!
+Hopcount: 3
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 1 to Node 6 with Flow: 1.74858e+07 bits 
+Node 1 -> Node 7 -> Node 3 -> Node 5 -> Node 8 -> Node 4 -> Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 7
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 1 to Node 7 with Flow: 5.83091e+06 bits 
+Node 1 -> Node 7 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 1 to Node 8 with Flow: 5.824e+06 bits 
+Node 1 -> Node 7 -> Node 3 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 4
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 1 to Node 9 with Flow: 2.33098e+07 bits 
+Node 1 -> Node 7 -> Node 3 -> Node 5 -> Node 8 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 6
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 1 to Node 10 with Flow: 5.83091e+06 bits 
+Node 1 -> Node 7 -> Node 3 -> Node 5 -> Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 8
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 2 to Node 0 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 2 to Node 3 with Flow: 3.49786e+07 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 3 -> Destination Reached!
+Hopcount: 8
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 2 to Node 5 with Flow: 1.16618e+07 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Destination Reached!
+Hopcount: 7
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 2 to Node 6 with Flow: 1.16549e+07 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 3
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 2 to Node 7 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Destination Reached!
+Hopcount: 5
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.015717
+Routing from Node 2 to Node 8 with Flow: 1.74858e+07 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 8
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 2 to Node 9 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 9 -> Destination Reached!
+Hopcount: 8
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 2 to Node 10 with Flow: 5.83091e+06 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 2 to Node 11 with Flow: 1.16549e+07 bits 
+Node 2 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 3 to Node 1 with Flow: 1.16549e+07 bits 
+Node 3 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 2
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 3 to Node 2 with Flow: 3.49786e+07 bits 
+Node 3 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 8
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 3 to Node 4 with Flow: 1.7472e+07 bits 
+Node 3 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Node 4 -> Destination Reached!
+Hopcount: 7
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 3 to Node 5 with Flow: 5.83091e+06 bits 
+Node 3 -> Node 5 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 3 to Node 9 with Flow: 1.16618e+07 bits 
+Node 3 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 8
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 3 to Node 10 with Flow: 5.83091e+06 bits 
+Node 3 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 4
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 3 to Node 11 with Flow: 1.16618e+07 bits 
+Node 3 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 4 to Node 0 with Flow: 1.74858e+07 bits 
+Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 4 to Node 1 with Flow: 1.74927e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 5
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.015717
+Routing from Node 4 to Node 3 with Flow: 1.7472e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 3 -> Destination Reached!
+Hopcount: 7
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 4 to Node 5 with Flow: 1.74858e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 4 to Node 7 with Flow: 1.16549e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 4 to Node 8 with Flow: 6.9964e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 7
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 4 to Node 9 with Flow: 1.74858e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 9 -> Destination Reached!
+Hopcount: 7
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 4 to Node 10 with Flow: 1.74927e+07 bits 
+Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 5
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.015717
+Routing from Node 5 to Node 1 with Flow: 1.16618e+07 bits 
+Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 5 to Node 2 with Flow: 1.16618e+07 bits 
+Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 7
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 5 to Node 3 with Flow: 5.83091e+06 bits 
+Node 5 -> Node 1 -> Node 7 -> Node 3 -> Destination Reached!
+Hopcount: 3
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 5 to Node 4 with Flow: 1.74858e+07 bits 
+Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Node 4 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 5 to Node 7 with Flow: 5.83091e+06 bits 
+Node 5 -> Node 1 -> Node 7 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 5 to Node 8 with Flow: 1.16618e+07 bits 
+Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 8 -> Destination Reached!
+Hopcount: 7
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 5 to Node 9 with Flow: 2.91476e+07 bits 
+Node 5 -> Node 1 -> Node 7 -> Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 7
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 6 to Node 0 with Flow: 1.16549e+07 bits 
+Node 6 -> Node 0 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 6 to Node 1 with Flow: 1.74858e+07 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 5
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.015717
+Routing from Node 6 to Node 2 with Flow: 1.16549e+07 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 3
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 6 to Node 7 with Flow: 5.83091e+06 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Destination Reached!
+Hopcount: 6
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 6 to Node 8 with Flow: 1.16618e+07 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 5
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.015717
+Routing from Node 6 to Node 9 with Flow: 5.83091e+06 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 6 to Node 10 with Flow: 5.83091e+06 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 7
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 6 to Node 11 with Flow: 1.16549e+07 bits 
+Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Node 11 -> Destination Reached!
+Hopcount: 7
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 7 to Node 1 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 1
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 7 to Node 2 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 1 -> Node 5 -> Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 7
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 7 to Node 4 with Flow: 1.16549e+07 bits 
+Node 7 -> Node 1 -> Node 5 -> Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 4
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 7 to Node 5 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 1 -> Node 5 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 7 to Node 6 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 1 -> Node 5 -> Node 8 -> Node 4 -> Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 7 to Node 10 with Flow: 1.16549e+07 bits 
+Node 7 -> Node 1 -> Node 5 -> Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 10 -> Destination Reached!
+Hopcount: 7
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 7 to Node 11 with Flow: 5.83091e+06 bits 
+Node 7 -> Node 1 -> Node 5 -> Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 7
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 8 to Node 0 with Flow: 1.74858e+07 bits 
+Node 8 -> Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 8 to Node 1 with Flow: 5.824e+06 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 8 to Node 2 with Flow: 1.74858e+07 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 8 to Node 4 with Flow: 6.9964e+07 bits 
+Node 8 -> Node 4 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 8 to Node 5 with Flow: 1.16618e+07 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Destination Reached!
+Hopcount: 7
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 8 to Node 6 with Flow: 1.16618e+07 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 3
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 8 to Node 9 with Flow: 1.16618e+07 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 9 -> Destination Reached!
+Hopcount: 8
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 8 to Node 10 with Flow: 5.824e+06 bits 
+Node 8 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 6
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 9 to Node 0 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 9 to Node 1 with Flow: 2.33098e+07 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 9 to Node 2 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 2 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 9 to Node 3 with Flow: 1.16618e+07 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 3 -> Destination Reached!
+Hopcount: 8
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 9 to Node 4 with Flow: 1.74858e+07 bits 
+Node 9 -> Node 4 -> Destination Reached!
+Hopcount: 1
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 9 to Node 5 with Flow: 2.91476e+07 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Destination Reached!
+Hopcount: 7
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 9 to Node 6 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 9 to Node 8 with Flow: 1.16618e+07 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 1 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 8
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 9 to Node 10 with Flow: 1.16618e+07 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 6
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 9 to Node 11 with Flow: 5.83091e+06 bits 
+Node 9 -> Node 4 -> Node 0 -> Node 6 -> Node 11 -> Destination Reached!
+Hopcount: 4
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 10 to Node 0 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Node 0 -> Destination Reached!
+Hopcount: 2
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.007608
+Routing from Node 10 to Node 1 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Destination Reached!
+Hopcount: 6
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 10 to Node 2 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 4
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 10 to Node 3 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Node 3 -> Destination Reached!
+Hopcount: 8
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 10 to Node 4 with Flow: 1.74927e+07 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Destination Reached!
+Hopcount: 3
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.010311
+Routing from Node 10 to Node 6 with Flow: 5.83091e+06 bits 
+Node 10 -> Node 6 -> Destination Reached!
+Hopcount: 1
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 10 to Node 7 with Flow: 1.16549e+07 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Destination Reached!
+Hopcount: 7
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 10 to Node 8 with Flow: 5.824e+06 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 8 -> Destination Reached!
+Hopcount: 6
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.01842
+Routing from Node 10 to Node 9 with Flow: 1.16618e+07 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 4
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 10 to Node 11 with Flow: 1.16549e+07 bits 
+Node 10 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Node 11 -> Destination Reached!
+Hopcount: 8
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 11 to Node 2 with Flow: 1.16549e+07 bits 
+Node 11 -> Node 6 -> Node 0 -> Node 4 -> Node 2 -> Destination Reached!
+Hopcount: 4
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 11 to Node 3 with Flow: 1.16618e+07 bits 
+Node 11 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Node 3 -> Destination Reached!
+Hopcount: 8
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+Routing from Node 11 to Node 6 with Flow: 1.16549e+07 bits 
+Node 11 -> Node 6 -> Destination Reached!
+Hopcount: 1
+VC Used: 0
+ Total Power (Nodes+Links) Due to This Route: 0.004905
+Routing from Node 11 to Node 7 with Flow: 5.83091e+06 bits 
+Node 11 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Destination Reached!
+Hopcount: 7
+VC Used: 1
+ Total Power (Nodes+Links) Due to This Route: 0.021123
+Routing from Node 11 to Node 9 with Flow: 5.83091e+06 bits 
+Node 11 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Destination Reached!
+Hopcount: 4
+VC Used: 2
+ Total Power (Nodes+Links) Due to This Route: 0.013014
+Routing from Node 11 to Node 10 with Flow: 1.16549e+07 bits 
+Node 11 -> Node 6 -> Node 0 -> Node 4 -> Node 9 -> Node 5 -> Node 1 -> Node 7 -> Node 10 -> Destination Reached!
+Hopcount: 8
+VC Used: 3
+ Total Power (Nodes+Links) Due to This Route: 0.023826
+-----------End Of Iteration 1----------------- 
+Global Max Load: 0.122422 (GB) 
+Total Power (Nodes+Links) :1.48564

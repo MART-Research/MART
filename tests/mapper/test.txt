@@ -1,0 +1,29 @@
+g++ tests/mapper/test_aco.cpp Application/Mapper/src/ACO.cpp -o aco -std=c++11
+./aco.exe
+
+g++ tests/mapper/test_bnb.cpp Application/Mapper/src/BnB.cpp -o bnb -std=c++11
+./bnb.exe
+
+g++ tests/mapper/test_ga.cpp Application/Mapper/src/GA.cpp -o ga -std=c++11
+./ga.exe
+
+g++ tests/mapper/test_greedy.cpp Application/Mapper/src/Greedy.cpp -o greedy -std=c++11
+./greedy.exe
+
+g++ tests/mapper/test_knn.cpp Application/Mapper/src/KNN.cpp -o knn -std=c++11
+./knn.exe
+
+g++ tests/mapper/test_pso.cpp Application/Mapper/src/PSO.cpp -o pso -std=c++11
+./pso.exe
+
+g++ tests/mapper/test_qlearning.cpp Application/Mapper/src/QLearning.cpp -o ql -std=c++11
+./ql.exe
+
+g++ tests/mapper/test_sa.cpp Application/Mapper/src/SA.cpp -o sa -std=c++11
+./sa.exe
+
+g++ tests/mapper/test_ts.cpp Application/Mapper/src/TS.cpp -o ts -std=c++11
+./ts.exe
+
+g++ tests/mapper/test_aco.cpp Application/Mapper/src/ACO.cpp Application/utils/nodes/Node.cpp Application/utils/Router/Router.cpp -o aco -std=c++11
+./aco.exe

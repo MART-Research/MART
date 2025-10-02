@@ -1,0 +1,55 @@
+# which topology to test
+topology               = tree
+
+
+# hopcount for the routing algorithm
+hopcount               = 0
+# number of virtual channels
+num_vcs               = 1
+# fraction of faulty faulty_links
+faulty_links          = 0.0
+
+# flows
+flow                 = 2.0
+# ---- butterfly parameters ----
+k                    = 8
+# ---- hypercube parameters ----
+num_dimensions         = 5
+
+#tree parameters
+levels      =4
+branches    =5
+
+# ---- dragonfly parameters ----
+# number of groups, routers per group, nodes per router, global links per router
+num_groups             = 3
+routers_per_group      = 2
+nodes_per_router       = 4
+global_links_per_router= 1
+num_vcs                = 1
+
+# ---- mesh parameters ----
+# number of rows, columns, nodes per router, links per router
+num_rows              = 5
+num_cols              = 6
+
+# number of test cases
+num_tests              = 5
+
+# ------------------ tree testcases ------------------
+
+route_0                = 51->93
+expected_0             = 51,10,1,0,3,18,93
+
+route_1                = 69->154
+expected_1             = 69,13,2,0,5,30,154
+
+route_2                = 53->99
+expected_2             = 53,10,1,0,3,19,99
+
+route_3                = 85->52
+expected_3             = 85,16,3,0,1,10,52
+
+route_4                = 18->66
+expected_4             = 18,3,0,2,13,66
+
